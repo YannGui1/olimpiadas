@@ -1,7 +1,7 @@
 # Projeto: Busca de Atletas
 
 ## Descrição
-Este projeto web permite pesquisar por atletas em um banco de dados simples. Ao digitar um termo no campo de pesquisa e clicar no botão, a página exibe uma lista de atletas relevantes.
+Este projeto web permite pesquisar por atletas em um banco de dados simples. Ao digitar um termo no campo de pesquisa e clicar no botão, a página exibe uma lista de atletas relevantes. Este projeto foi desenvolvido durante a Imersão Dev com Google Gemini na Alura.
 
 ## Tecnologias Utilizadas
 * **HTML:** Estrutura básica da página.
